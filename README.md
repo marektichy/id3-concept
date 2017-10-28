@@ -12,8 +12,8 @@ This is not a YASSI paper. The idea of **self-sovereign identity**, which has in
 
 <small>YASSI = Yet Another Self Sovereign Identity  </small>
 
-##The story 
-**Alice** and **Bob** have been happily exchanging asymmetrically encrypted messages, and while enjoying a pretty good privacy, the only force in the universe which makes one out of two has taken over. Alice got pregnant. 
+## The story 
+**Alice** and **Bob** have been happily exchanging asymmetrically encrypted messages, and while enjoying a *pretty good privacy*, the only force in the universe which makes **one out of two** has taken over. Alice got pregnant. 
 They gave birth to a wonderful baby who they named **Cecilia**. They were overwhelmed with joy and love and it was absolutely no trouble for **both** of them to certify:
  
 1. **What** her name is
