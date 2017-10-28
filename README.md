@@ -40,7 +40,7 @@ As she progressed through her life, she needed more properties of herself writte
 And that's all there is to it, really. Later in her life, Cecilia despite kept asking herself the question **"Who am I"**, but that's a different story altogether. 
 
 # Conclusion
-If we admit what constitutes **the core of identity**, and **how is identity comes to be**, we can untangle our tingle with regards to how to replicate it online. The luna parks for kids, but more importantly the luna parks for adults will pay the bill. And there is likely to be an overhead which could provide a bite for everyone in the game. It belongs to **us**. 
+If we admit what constitutes **the core of identity**, and **how is identity comes to be**, we can untangle our tingle with regards to how to **replicate it online**. The luna parks for kids, but more importantly the luna parks for **adults will pay the bill**. And there is likely to be an overhead which could provide a bite for everyone in the game. It belongs to **us**. 
 
 
 
