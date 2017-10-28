@@ -8,9 +8,9 @@ People are scared of reading whitepapers and many are indeed quite complicated. 
 The Internet is in need of a way for its users to claim who they are. This has been repeated over and over. Not in a desperate need, it works marvelously even without it, but there are problems that wouldn't exist if there was such a thing. So let's get on with it. 
 
 ##Warning
-This is not a *YASSI paper. The idea of **self-sovereign identity**, which has inevitably risen, has to be credited for bringing some new ways of looking at this. But in its essence, it's trying to solve the Columbus egg problem by looking at the egg with your head upside down. The thing is - you don't burn the man.
+This is not a YASSI paper. The idea of **self-sovereign identity**, which has inevitably risen, has to be credited for bringing some new ways of looking at this. But in its essence, it's trying to solve the Columbus egg problem by looking at the egg with your head upside down. The thing is - you don't burn the man.
 
-<small>* Yet Another Self Sovereign Identity  </small>
+<small>YASSI = Yet Another Self Sovereign Identity  </small>
 
 ##The story 
 **Alice** and **Bob** have been happily exchanging asymmetrically encrypted messages, and while enjoying a pretty good privacy, the only force in the universe which makes one out of two has taken over. Alice got pregnant. 
