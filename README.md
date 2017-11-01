@@ -14,7 +14,7 @@ This is not a YASSI\* paper. The idea of **self-sovereign identity**, which has 
 
 ## The story 
 **Alice** and **Bob** have been happily exchanging [asymmetrically encrypted](https://en.wikipedia.org/wiki/Public-key_cryptography) messages, and while enjoying a *pretty good privacy*, [the only force](https://en.wikipedia.org/wiki/Love) in the universe which makes **one out of two** has taken over. Alice got pregnant. 
-They gave birth to a wonderful baby who they named **Cecilia**. They were overwhelmed with joy and love and it was absolutely no trouble for **both** of them to certify:
+They gave birth to a wonderful baby who they named [Cecilia](https://archive.org/download/turbanek/turbanek.jpg). They were overwhelmed with joy and love and it was absolutely no trouble for **both** of them to certify:
  
 1. **What** her name is
 2. **When** was she born
