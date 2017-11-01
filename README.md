@@ -8,7 +8,7 @@ People are scared of reading whitepapers and many are indeed quite complicated. 
 The Internet is in need of a way for its users to claim who they are. This has been repeated [over](http://www.identityblog.com/?p=838) and [over](http://id2020.org/) (and [over](https://www.linkedin.com/pulse/treatise-identity-part-1-problems-status-quo-dominik-schiener)). Not in a desperate need, it works marvelously even without it, but there are problems that wouldn't exist if there was such a thing. So let's get on with it. 
 
 ## Warning
-This is not a YASSI\* paper. The idea of **self-sovereign identity**, which has [inevitably risen](https://github.com/sovrin-foundation/sovrin.org/blob/master/The%20Inevitable%20Rise%20of%20Self-Sovereign%20Identity.pdf), has to be credited for bringing some new ways of looking at this. But in its essence, it's trying to solve the Columbus egg problem by looking at the egg with your head upside down. The thing is - you [don't burn the man](https://www.amazon.com/Bitcoin-Burning-Man-Beyond-Identity-ebook/dp/B00M7BMT04).
+This is not a YASSI\* paper. The idea of **self-sovereign identity**, which has [inevitably risen](https://github.com/sovrin-foundation/sovrin.org/blob/master/The%20Inevitable%20Rise%20of%20Self-Sovereign%20Identity.pdf), has to be credited for bringing some new ways of looking at this. But in its essence, it's trying to solve the [Egg of Columbus problem](https://en.wikipedia.org/wiki/Egg_of_Columbus) by looking at the egg ear-to-shoulder. The thing is - you [don't burn the man](https://www.amazon.com/Bitcoin-Burning-Man-Beyond-Identity-ebook/dp/B00M7BMT04).
 
 <small>* YASSI = Yet Another Self Sovereign Identity  </small>
 
