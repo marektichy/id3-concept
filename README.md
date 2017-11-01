@@ -29,7 +29,8 @@ The whole thing looked like this:
 And like this, it has been written into some unused columns of a [*distributed immutable public ledger*](https://en.wikipedia.org/wiki/Distributed_ledger), whatever that is, where it stayed forever. People keep such ledger because they love to see money changing hands and enjoy speculating with their surpluses. The ledger is called "blockchain", or more like it **The Tangle**, which looks like this:
 
 <img src="https://archive.org/download/tangle_201710/tangle.png"/>
-*Watch it grow live at [tangle.blox.pm](https://tangle.blox.pm/)*
+
+*Watch it grow live at* [tangle.blox.pm](https://tangle.blox.pm/)
 
 Other people have done the same. Those who missed the opportunity of doing so at birth have done it retrospectively, among close friends too. Soon, within The Tangle grew another structure, let's call it **The Tingle** (**T**angle **I**nverted). In the Tangle, **one confirms two**. In The Tingle, **two confirm one**.
 
