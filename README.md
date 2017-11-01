@@ -2,7 +2,7 @@
 # The ID3 Whitepaper 
 
 ## Foreword
-People are scared of reading whitepapers and many are indeed quite complicated. But this one is really a simple one. Anyone who can understand what a "triangle" is can grasp the idea, so please carry on reading, it's short. And if you spot a crocodile, don't forget to scream. Or a domesticated elephant.
+People are scared of reading whitepapers and many are indeed quite complicated. But this one is really a simple one. Anyone who can understand what a "triangle" is can grasp the idea, so please carry on reading, it's short. And if you see a crocodile, don't forget to scream (or a domesticated elephant).
 
 ## To the point 
 The Internet is in need of a way for its users to claim who they are. This has been repeated [over](http://www.identityblog.com/?p=838) and [over](http://id2020.org/) (and [over](https://www.linkedin.com/pulse/treatise-identity-part-1-problems-status-quo-dominik-schiener)). Not in a desperate need, it works marvelously even without it, but there are problems that wouldn't exist if there was such a thing. So let's get on with it. 
@@ -40,4 +40,4 @@ As she progressed through her life, she needed more properties of herself writte
 And that's all there is to it, really. Later in her life, Cecilia despite kept asking herself the question **"Who am I"**, but that's a [different story](https://en.wikipedia.org/wiki/Self-enquiry_(Ramana_Maharshi)) altogether. 
 
 # Conclusion
-If we admit what constitutes **the core of identity**, and **how is identity comes to be**, we can untangle our tingle with regards to how to **replicate it online**. The luna parks for kids, but more importantly the [luna parks for adults](http://www.zoo-tube.net) **will pay the bill**. And there is likely to be an overhead which could provide a bite for everyone in the game. It belongs to **us**. 
+If we admit what constitutes **the core of identity**, and **how is identity comes to be**, we can untangle our tingle with regards to how to **replicate it online**. The luna parks for kids, but more importantly the [luna parks for adults](https://www.google.com/search?q=Zoo+Tube%3A+Free+Beastiality+and+Animal+Sex+Videos) **will pay the bill**. And there is likely to be an overhead which could provide a bite for everyone in the game. It belongs to **us**. 
