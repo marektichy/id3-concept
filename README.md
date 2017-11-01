@@ -37,7 +37,7 @@ But back to Cecilia. She grew and was good with computers and those tiny bricks 
 
 As she progressed through her life, she needed more properties of herself written into that ledger and various institutions from which the fact originated have done it for her, only knowing what they needed to know, again via a triangle, bound to the original *birth* record with the one-directional technique know as [*hashing*](https://en.wikipedia.org/wiki/Hash_function).  
 
-And that's all there is to it, really. Later in her life, Cecilia despite kept asking herself the question **"Who am I"**, but that's a [different story](https://en.wikipedia.org/wiki/Self-enquiry_(Ramana_Maharshi)) altogether. 
+And that's all there is to it, really. Later in her life, Cecilia despite kept asking herself the question "Who am I", but that is a different [story](https://en.wikipedia.org/wiki/Self-enquiry_(Ramana_Maharshi)) altogether. 
 
 # Conclusion
 If we admit what constitutes **the core of identity**, and **how is identity comes to be**, we can untangle our tingle with regards to how to **replicate it online**. The luna parks for kids, but more importantly the [luna parks for adults](https://www.google.com/search?q=Zoo+Tube%3A+Free+Beastiality+and+Animal+Sex+Videos) **will pay the bill**. And there is likely to be an overhead which could provide a bite for everyone in the game. It belongs to **us**. 
