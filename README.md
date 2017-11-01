@@ -2,7 +2,7 @@
 # The ID3 Whitepaper 
 
 ## Foreword
-People are scared of reading whitepapers and many are indeed quite complicated. But this one is really a simple one. Anyone who can understand what a "triangle" is can grasp the idea, so please carry on reading, it's short. And if you see a crocodile, don't forget to scream (or a domesticated elephant).
+People are scared of reading whitepapers and many are indeed quite complicated. But this one is really a simple one. Anyone who can understand what a "triangle" is can grasp the idea, so please carry on reading, it's short. And "if you see a crocodile, don't forget to scream" (or a domesticated elephant).
 
 ## To the point 
 The Internet is in need of a way for its users to claim who they are. This has been repeated [over](http://www.identityblog.com/?p=838) and [over](http://id2020.org/) (and [over](https://www.linkedin.com/pulse/treatise-identity-part-1-problems-status-quo-dominik-schiener)). Not in a desperate need, it works marvelously even without it, but there are problems that wouldn't exist if there was such a thing. So let's get on with it. 
