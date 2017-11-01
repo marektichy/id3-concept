@@ -26,10 +26,12 @@ The whole thing looked like this:
 
 <img src="https://archive.org/download/ID3_YAT/Untitled%20Diagram%20(1).png"/>
 
+<small>Watch it grow live at [tangle.blox.pm](https://tangle.blox.pm/)</small>
 
 And like this, it has been written into some unused columns of a [*distributed immutable public ledger*](https://en.wikipedia.org/wiki/Distributed_ledger), whatever that is, where it stayed forever. People keep such ledger because they love to see money changing hands and enjoy speculating with their surpluses. The ledger is called "blockchain", or more like it **The Tangle**, which looks like this:
 
 <img src="https://archive.org/download/tangle_201710/tangle.png"/>
+
 
 Other people have done the same. Those who missed the opportunity of doing so at birth have done it retrospectively, among close friends too. Soon, within The Tangle grew another structure, let's call it **The Tingle** (**T**angle **I**nverted). In the Tangle, **one confirms two**. In The Tingle, **two confirm one**.
 
