@@ -31,7 +31,7 @@ And like this, it has been written into some unused columns of a *distributed im
 
 <img src="https://archive.org/download/tangle_201710/tangle.png"/>
 
-Other people have done the same. Those who missed the opportunity of doing so at birth have done it retrospectively, among close friends too. Soon, within The Tangle grew another structure, let's call it **The Tingle** (**T**angle **I**nverted). 
+Other people have done the same. Those who missed the opportunity of doing so at birth have done it retrospectively, among close friends too. Soon, within The Tangle grew another structure, let's call it **The Tingle** (**T**angle **I**nverted). In the Tangle, **one confirms two**. In the Tingle, **two confirm one**.
 
 But back to Cecilia. She grew and was good with computers and those tiny bricks people keep stroking all day. Her parents taught her how to unlock the record in that ledger when she needed too. She did that occasionally, for instance, to prove her age when there was some age restriction for some luna park attractions. The way it was done was a bit like 3D Visa, via **yet another triangle**, so the luna park staff didn't know who she is or where she was born because it was none of their concern. 
 
