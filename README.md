@@ -30,7 +30,7 @@ And like this, it has been written into some unused columns of a [*distributed i
 
 <img src="https://archive.org/download/tangle_201710/tangle.png"/>
 
-*Watch it grow live at* [tangle.blox.pm](https://tangle.blox.pm/)
+* *Watch it grow live at* [tangle.blox.pm](https://tangle.blox.pm/)
 
 Other people have done the same. Those who missed the opportunity of doing so at birth have done it retrospectively, among close friends too. Soon, within The Tangle grew another structure, let's call it **The Tingle** (**T**angle **I**nverted). In the Tangle, **one confirms two**. In The Tingle, **two confirm one**.
 
