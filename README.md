@@ -1,6 +1,6 @@
 
-# The ID3 Whitepaper 
-<img src="https://ia601508.us.archive.org/1/items/triangle_201711/triangle.png"/>
+
+# <img src="https://archive.org/download/triangle_small/triangle_small.png"/> The ID3 Whitepaper 
 
 ## Foreword
 People are scared of reading whitepapers and many are indeed quite complicated. But this one is really a simple one. Anyone who can understand what a "triangle" is can grasp the idea, so please carry on reading, it's short. And if you see [a](https://en.wikipedia.org/wiki/Row,_Row,_Row_Your_Boat) crocodile (or [a](https://en.wikipedia.org/wiki/Elephant_in_the_room)  domesticated elephant), don't forget to scream.
